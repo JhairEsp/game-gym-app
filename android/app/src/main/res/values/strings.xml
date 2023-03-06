@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Game Gym</string>
+    <string name="facebook_app_id">499940865631105</string>
+    <string name="fb_login_protocol_scheme">fb499940865631105</string>
+    <string name="facebook_client_token">f8f4450f7a87771a3fb90fdeabfd23fa</string>
+</resources>

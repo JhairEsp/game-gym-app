@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "415033234829",
+    "project_id": "game-gym-valere",
+    "storage_bucket": "game-gym-valere.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415033234829:android:02f3cd22f7af2a79e619c4",
+        "android_client_info": {
+          "package_name": "valere.com.game_gym_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415033234829-f74b6i3abrs70k6n8md958kr8ple33g2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "valere.com.game_gym_app",
+            "certificate_hash": "80303659fc952809f03bd69fb5a2fcd1e1419933"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPfDjWOC1xRK4nSgb4yxr_YbHmu5kKOR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415033234829-n2mbsv7li22b1qv4cp20hrpdnvdpp4dr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.valere.gameGymApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
