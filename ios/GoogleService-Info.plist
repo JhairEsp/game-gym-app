@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>415033234829-n2mbsv7li22b1qv4cp20hrpdnvdpp4dr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.415033234829-n2mbsv7li22b1qv4cp20hrpdnvdpp4dr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>415033234829-f74b6i3abrs70k6n8md958kr8ple33g2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-uuUETug3wQAP5Ep8IqYPjWxjlJrNCIc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>415033234829</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.valere.gameGymApp</string>
+	<key>PROJECT_ID</key>
+	<string>game-gym-valere</string>
+	<key>STORAGE_BUCKET</key>
+	<string>game-gym-valere.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:415033234829:ios:26b8ee467349d1fee619c4</string>
+</dict>
+</plist>
